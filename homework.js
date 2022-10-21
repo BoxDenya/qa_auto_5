@@ -153,9 +153,11 @@ let f0 = 0
 let f1 = 1
 let fib
 
+
 for (let i = 0; i < n; i++) {
   fib = f0 + f1
   f0 = f1
   f1 = fib
   console.log(fib)
 }
+
