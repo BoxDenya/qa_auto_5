@@ -1,1 +1,1 @@
-let a = "New"
+let a = "New";
